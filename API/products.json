@@ -1,0 +1,114 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Vada Pav",
+      "price": 50,
+      "time": "15 min",
+      "km": "2 km",
+      "ratings": "4.9",
+      "image": [
+        {
+          "id": 1,
+          "img": "https://thumbs.dreamstime.com/b/vada-pav-23183573.jpg"
+        },
+        {
+          "id": 2,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjgVvOcMxSp9NTqFfzWWt-rdbVC2lDiotqQ&usqp=CAU"
+        },
+        {
+          "id": 3,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxaylGMuyXdIeY_4fDIygPF4uPFniTbhA9KA&usqp=CAU"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dark Chocolate Cake",
+      "price": 299,
+      "time": "30 min",
+      "km": "5 km",
+      "ratings": "4.9",
+      "image": [
+        {
+          "id": 1,
+          "img": "https://www.expressluv.in/cdn/shop/products/1_56-sw_420x.jpg?v=1669436886"
+        },
+        {
+          "id": 2,
+          "img": "https://www.cakeexpress.co.in/image/catalog/Cake/Regular/chocolate/dark-chocolate-cake.jpg"
+        },
+        {
+          "id": 3,
+          "img": "https://tastytreatcakes.com/wp-content/uploads/2019/06/Dark-Chocolate-Cake.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "price": 499,
+      "time": "25 min",
+      "km": "4.5 km",
+      "ratings": "4",
+      "image": [
+        {
+          "id": 1,
+          "img": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696896000&semt=ais"
+        },
+        {
+          "id": 2,
+          "img": "https://www.shutterstock.com/image-photo/fresh-homemade-italian-pizza-margherita-260nw-1829205563.jpg"
+        },
+        {
+          "id": 3,
+          "img": "https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=D1z4xPCs-qQIZyUqRcHrnsJSJy_YbUD9udOrXpilNpI="
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Burger King",
+      "price": 200,
+      "time": "40 - 50 min",
+      "km": "4 km",
+      "ratings": "3.9",
+      "image": [
+        {
+          "id": 1,
+          "img": "https://www.shutterstock.com/image-photo/bangkok-thailand-june-9-2018-260nw-1108805654.jpg"
+        },
+        {
+          "id": 2,
+          "img": "https://i.insider.com/5bbd187101145529745a9895?width=700"
+        },
+        {
+          "id": 3,
+          "img": "https://www.shutterstock.com/image-photo/bangkok-thailand-june-9-2018-260nw-1108805654.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pani Puri",
+      "price": 199,
+      "time": "20 - 25 min",
+      "km": "3 km",
+      "ratings": "4.1",
+      "image": [
+        {
+          "id": 1,
+          "img": "https://images.deliveryhero.io/image/talabat/restaurants/CB__cover_pic637896968083429533.jpg?width=750"
+        },
+        {
+          "id": 2,
+          "img": "https://www.awesomecuisine.com/wp-content/uploads/2007/11/Pani-Puri.jpg"
+        },
+        {
+          "id": 3,
+          "img": "https://c8.alamy.com/comp/ET1D7J/pani-puri-with-sprouted-mung-served-in-plate-ET1D7J.jpg"
+        }
+      ]
+    }
+  ]
+}
